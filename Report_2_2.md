@@ -12,7 +12,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты: 
-* [Полученное значение переменной типа double "totalBonus" не соответствует ожидаемому]()
+* [Полученное значение переменной типа double "totalBonus" не соответствует ожидаемому](https://github.com/turaved/Java_intro_2_2/issues/1)
 
 ### Этапы тестирования
 * создать программу **Precision** в среде разработки **IntelliJ IDEA** согласно [Задания №2](https://github.com/netology-code/javaqa-homeworks/tree/master/programming)
